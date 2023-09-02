@@ -1,6 +1,5 @@
 ### Hi there 👋
-## # Estudante  do curso Engenheiro Front-end na Ebac .
+## # Desenvolvedor Front-end
 
-- 🌱 Atualmento estou aprendendo desenvolvimento Front-end.
--  ✨Habilidades em HTML, CSS E JAVASCRIPT
+-  ✨Habilidades em | HTML | CSS | JAVASCRIPT | JQUERY | BOOTSTRAP | GULP | SASS | LESS |
 - ⚡ contato: www.linkedin.com/in/deivesilva /  email: deiveas@gmail.com
