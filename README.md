@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Desenvolvedor Front-end
 
--  ✨Habilidades em | HTML | CSS | JAVASCRIPT | JQUERY | BOOTSTRAP | GULP | SASS | LESS | Vue | React | 
+-  ✨Habilidades em | HTML | CSS | JAVASCRIPT | JQUERY | BOOTSTRAP | GULP | SASS | LESS | VUE | REACT | 
 - ⚡ contato: www.linkedin.com/in/deivesilva /  email: deiveas@gmail.com
 
 <div align="center">
